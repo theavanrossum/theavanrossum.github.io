@@ -12,5 +12,6 @@ I like data. Good data.
 
 [Google Scholar](https://scholar.google.ca/citations?user=mhN0cZoAAAAJ&hl=en)
 
-### Contact me
 
+### Contact me
+See the links below
