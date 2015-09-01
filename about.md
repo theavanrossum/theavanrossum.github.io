@@ -14,4 +14,3 @@ I like data. Good data.
 
 ### Contact me
 
-[theavanrossum@gmail.com](mailto:theavanrossum@gmail.com)
