@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PhD Candidate in the Brinkman lab working on analysis of metagenomic data
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like data. Good data.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[theavanrossum@gmail.com](mailto:theavanrossum@gmail.com)
